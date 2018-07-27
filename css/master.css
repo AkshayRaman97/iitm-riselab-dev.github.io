@@ -4,11 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
-@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather|Raleway|Karla|Montserrat|Archivo');
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather|Raleway|Karla|Montserrat|Archivo|Nunito+Sans');
 
 body {
   background-color: #f8f9fa;
-  font-family: 'Archivo', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   padding: 0px;
 }
 
@@ -40,7 +40,6 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-  text-align: center;
   font-size: 34px;
   margin-top: 10px;
   margin-bottom: 20px; 
@@ -315,8 +314,8 @@ and (min-width : 1224px) {
   }
   .card {
     padding: 10px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   .container {
     margin-top: 75px;
